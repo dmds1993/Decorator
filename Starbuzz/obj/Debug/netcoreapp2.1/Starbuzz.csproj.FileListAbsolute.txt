@@ -1,0 +1,11 @@
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\Starbuzz\Starbuzz\obj\Debug\netcoreapp2.1\Starbuzz.csprojAssemblyReference.cache
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\Starbuzz\Starbuzz\obj\Debug\netcoreapp2.1\Starbuzz.csproj.CoreCompileInputs.cache
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\Starbuzz\Starbuzz\obj\Debug\netcoreapp2.1\Starbuzz.AssemblyInfoInputs.cache
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\Starbuzz\Starbuzz\obj\Debug\netcoreapp2.1\Starbuzz.AssemblyInfo.cs
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\Starbuzz\Starbuzz\bin\Debug\netcoreapp2.1\Starbuzz.deps.json
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\Starbuzz\Starbuzz\bin\Debug\netcoreapp2.1\Starbuzz.runtimeconfig.json
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\Starbuzz\Starbuzz\bin\Debug\netcoreapp2.1\Starbuzz.runtimeconfig.dev.json
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\Starbuzz\Starbuzz\bin\Debug\netcoreapp2.1\Starbuzz.dll
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\Starbuzz\Starbuzz\bin\Debug\netcoreapp2.1\Starbuzz.pdb
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\Starbuzz\Starbuzz\obj\Debug\netcoreapp2.1\Starbuzz.dll
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\Starbuzz\Starbuzz\obj\Debug\netcoreapp2.1\Starbuzz.pdb
